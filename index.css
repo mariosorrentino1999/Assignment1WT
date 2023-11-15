@@ -1,0 +1,51 @@
+body {
+    background-color: #fafafa;
+    min-height: 100vh;
+    font-family: Figtree;
+    display: flex;
+    flex-direction: column;
+}
+
+.score {
+    font-family: Figtree;
+    font-weight: 700;
+    color: white;
+}
+
+footer {
+    text-align: left;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 16px;
+    color: #949494;
+}
+
+footer a {
+    color: #fafafa;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.button.active {
+    background-color: grey !important;
+    color: #181a1b !important;
+    border-color: grey !important;
+}
+
+.button.is-success {
+    background-color: #3ec487 !important;
+    color: #181a1b !important;
+    border-color: #3ec487 !important;
+}
+
+.button.is-error {
+    background-color: #f03a5f !important;
+    color: white !important;
+    border-color: #f03a5f !important;
+}

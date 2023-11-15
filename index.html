@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@300;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="has-background-primary">
+    <h1 class="title is-1 has-text-centered py-4">Knowledge Quiz</h1>
+</header>
+<main class="section">
+    <div class="container">
+        <h2 id="question" class="subtitle is-3 mb-4 text-black"></h2>
+        <figure class="is-16by9 mb-4">
+            <img id="image" src="" class="w-full h-auto object-cover object-center md:max-w-lg lg:max-w-xl hidden text-white" alt="Your Image Description">
+        </figure>
+        <p id="multiple-disclaimer" class="is-size-5 mb-3 hidden question">Choose the correct answer(s)</p>
+        <div id="score" class="notification is-primary hidden">
+            <p id="score-int" class="title is-3">Score: 0</p>
+        </div>
+        <div id="buttons" class="buttons">
+            <button id="answer1" class="button is-light hidden answer" onclick="handleAnswerSelection(event)"></button>
+            <button id="answer2" class="button is-light hidden answer" onclick="handleAnswerSelection(event)"></button>
+            <button id="answer3" class="button is-light hidden answer" onclick="handleAnswerSelection(event)"></button>
+            <button id="answer4" class="button is-light hidden answer" onclick="handleAnswerSelection(event)"></button>
+        </div>
+        <div id="start" class="buttons are-large">
+            <button id="movies" class="button is-primary" onclick="initializeGame(event)">Movies</button>
+            <button id="tv-series" class="button is-primary" onclick="initializeGame(event)">Tv Series</button>
+        </div>
+        <button id="start-again" class="button is-warning hidden" onclick="restartQuiz()">Start again</button>
+        <button id="next" class="button is-pulled-right hidden" onclick="handleNextQuestion()">Next</button>
+    </div>
+</main>
+<footer class="footer">
+    <div class="content">
+        <p class="text-black">
+            Designed by <a href="https://github.com/mariosorrentino1999" class="text-black" target="_blank" rel="noopener noreferrer">Mario Sorrentino</a>
+        </p>
+    </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What city is overrun with ghosts in Ghostbusters?",
+    "options": ["Los Angeles", "Hollywwod", "New York", "Dallas"],
+    "correct_answers": ["New York"],
+    "image_href": "https://wallpapers.com/images/featured/ghostbusters-o1ufxpjkc57o1bsj.jpg",
+    "type": "image"
+  },
+  {
+    "question": "Which action film involves a character named 'Indiana Jones'?",
+    "options": ["The Mummy", "National Treasure", "Raiders of the Lost Ark", "Jurassic Park"],
+    "correct_answers": ["Raiders of the Lost Ark"],
+    "image_href": "https://wallpapers.com/images/featured/indiana-jones-ctnp2w8x4qzv64ct.jpg",
+    "type": "image"
+  },
+  {
+    "question": "In the movie 'The Terminator' who played the role of the Terminator?",
+    "options": ["Arnold Schwarzenegger", "Sylvester Stallone", "Bruce Willis", "Jean-Claude Van Damme"],
+    "correct_answers": ["Arnold Schwarzenegger"],
+    "type": "single"
+  },
+  {
+    "question": "Aaron Sorkin won an Oscar for writing what 2010 drama about the creation of Facebook?",
+    "options": ["The Social Network", "Social Networking", "The Facebook Chronicles", "Mark Zuckerberg: The Story Behind"],
+    "correct_answers": ["The Social Network"],
+    "type": "single"
+  },
+  {
+    "question": "Who directed the action film 'The Matrix'?",
+    "options": ["James Cameron", "The Wachowskis", "Steven Spielberg", "Ridley Scott"],
+    "correct_answers": ["The Wachowskis"],
+    "image_href": "https://wallpapers.com/images/hd/big-neon-green-number-matrix-v6b9ixlo255ojdmb.jpg",
+    "type": "image"
+  },
+  {
+    "question": "Which action movie involves a character named 'Tony Stark'?",
+    "options": ["Iron Man", "Captain America: The Winter Soldier", "Guardians of the Galaxy", "Thor"],
+    "correct_answers": ["Iron Man"],
+    "type": "single"
+  },
+  {
+    "question": "Arnold Schwarzenegger played the character of 'John Matrix' in 'Commando.'",
+    "options": ["True", "False"],
+    "correct_answers": ["True"],
+    "type": "truefalse"
+  },
+  {
+    "question": "The 'Die Hard' series takes place primarily during the Christmas season.",
+    "options": ["True", "False"],
+    "correct_answers": ["True"],
+    "type": "truefalse"
+  },
+  {
+    "question": "Which of these films are directed by Christopher Nolan?",
+    "options": ["Inception", "The Godfather", "Interstellar", "Jaws"],
+    "correct_answers": ["Inception", "Interstellar"],
+    "type": "multiple"
+  },
+  {
+    "question": "Which movies feature Leonardo DiCaprio?",
+    "options": ["Titanic", "Inception", "The Matrix", "Pulp Fiction"],
+    "correct_answers": ["Titanic", "Inception"],
+    "type": "multiple"
+  },
+  {
+    "question": "Identify the movies that won the Oscar for Best Picture in the 2010s.",
+    "options": ["Moonlight", "The Shape of Water", "Gladiator", "The Departed"],
+    "correct_answers": ["Moonlight", "The Shape of Water"],
+    "type": "multiple"
+  },
+  {
+    "question": "Which of these films are part of the Marvel Cinematic Universe?",
+    "options": ["Iron Man", "Batman Begins", "Thor", "The Dark Knight"],
+    "correct_answers": ["Iron Man", "Thor"],
+    "type": "multiple"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "question": "What is Sara Tancredi’s job in Prison Break?",
+    "options": ["Police officer", "FBI agent", "Doctor", "Guard"],
+    "correct_answers": ["Doctor"],
+    "image_href": "https://w0.peakpx.com/wallpaper/28/243/HD-wallpaper-prison-break-tv-show-hq-prison-break-2019-michael-scofield.jpg",
+    "type": "image"
+  },
+  {
+    "question": "In 'Game of Thrones,' which family is known for the motto 'Winter is Coming'?",
+    "options": ["Stark", "Lannister", "Targaryen", "Baratheon"],
+    "correct_answers": ["Stark"],
+    "image_href": "https://images.alphacoders.com/478/thumb-1920-478372.jpg",
+    "type": "image"
+  },
+  {
+    "question": "Who portrays Dr Watson in Sherlock?",
+    "options": ["Martin Freeman", "Benedict Cumberbatch", "Andrew Scott", "Rupert Graves"],
+    "correct_answers": ["Martin Freeman"],
+    "type": "single"
+  },
+  {
+    "question": "In which UK city does Peaky Blinders take place?",
+    "options": ["Manchester", "Dublin", "Birmingham", "Berlin"],
+    "correct_answers": ["Birmingham"],
+    "image_href": "https://wallpapercosmos.com/w/full/5/9/7/12739-3554x1998-desktop-hd-peaky-blinders-background-image.jpg",
+    "type": "image"
+  },
+  {
+    "question": "Which actor did not play in Breaking Bad?",
+    "options": ["Bryan Cranston", "Aaron Paul", "Dean Norris", "Charlie Hunnam"],
+    "correct_answers": ["Charlie Hunnam"],
+    "type": "single"
+  },
+  {
+    "question": "When was the first episode of Stranger Things released?",
+    "options": ["2012", "2014", "2016", "2018"],
+    "correct_answers": ["2016"],
+    "image_href": "https://beanstalk-9fcd.kxcdn.com/wp-content/uploads/2022/11/Stranger-Things-Wallpaper.jpg",
+    "type": "image"
+  },
+  {
+    "question": "Assane Diop is a character of which TV show?",
+    "options": ["Velvet", "Luna Park", "Lupin", "Family Business"],
+    "correct_answers": ["Lupin"],
+    "type": "single"
+  },
+  {
+    "question": "In Big Bang Theory, Sheldon Cooper wins a Nobel prize.",
+    "options": ["True", "False"],
+    "correct_answers": ["True"],
+    "type": "truefalse"
+  },
+  {
+    "question": "The TV series 'Breaking Bad' primarily takes place in which state of the United States?",
+    "options": ["Arizona", "New Mexico", "California", "Texas"],
+    "correct_answers": ["New Mexico"],
+    "type": "truefalse"
+  },
+  {
+    "question": "Which of these series are known for their science fiction elements?",
+    "options": ["Black Mirror", "Friends", "Game of Thrones", "The Office"],
+    "correct_answers": ["Black Mirror", "Game of Thrones"],
+    "type": "multiple"
+  },
+  {
+    "question": "Can you name all of Tommy Shelby’s siblings in Peaky Blinders?",
+    "options": ["Arthur Shelby", "John Shelby", "Finn Shelby", "Ada Thorne"],
+    "correct_answers": ["Arthur Shelby", "John Shelby", "Finn Shelby", "Ada Thorne"],
+    "type": "multiple"
+  },
+  {
+    "question": "Which of these series are categorized as sitcoms?",
+    "options": ["The Big Bang Theory", "Lost", "Vikings", "Parks and Recreation"],
+    "correct_answers": ["The Big Bang Theory", "Parks and Recreation"],
+    "type": "multiple"
+  },
+  {
+    "question": "Identify the TV series that feature supernatural elements.",
+    "options": ["Supernatural", "Mad Men", "The Handmaid's Tale", "Buffy the Vampire Slayer"],
+    "correct_answers": ["Supernatural", "Buffy the Vampire Slayer"],
+    "type": "multiple"
+  },
+  {
+    "question": "Which of these TV series are set in a fantasy world?",
+    "options": ["Game of Thrones", "Breaking Bad", "Westworld", "The Mandalorian"],
+    "correct_answers": ["Game of Thrones", "Westworld"],
+    "type": "multiple"
+  },
+  {
+    "question": "Identify the series with a central theme of political intrigue.",
+    "options": ["House of Cards", "Grey's Anatomy", "The Witcher", "Veep"],
+    "correct_answers": ["House of Cards", "Veep"],
+    "type": "multiple"
+  },
+  {
+    "question": "Which series are known for their historical drama?",
+    "options": ["The Crown", "Futurama", "Dexter", "Peaky Blinders"],
+    "correct_answers": ["The Crown", "Peaky Blinders"],
+    "type": "multiple"
+  },
+  {
+    "question": "Is the TV series 'Stranger Things' set in the 1980s?",
+    "options": ["True", "False"],
+    "correct_answers": ["True"],
+    "type": "truefalse"
+  },
+  {
+    "question": "In 'Game of Thrones,' dragons are a prominent aspect of the storyline.",
+    "options": ["True", "False"],
+    "correct_answers": ["True"],
+    "type": "truefalse"
+  }
+]
